@@ -186,6 +186,12 @@ app.post('/api/view', upload.none(), async (req, res) => {
   }
 });
 
+app.post('/api/delete', authUser, upload.none(), async (req, res) => {
+
+  console.log(req.user)
+
+})
+
 app.post('/api/coc', authUser, upload.none(), async (req, res) => {
   const id = req.user
   const caseNo = req.body.caseNo

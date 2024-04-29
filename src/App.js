@@ -17,6 +17,7 @@ import NormalRoute from './Components/routes/NormalRoute';
 import ManageUser from './Components/Admin/ManageUser';
 import AdminRoute from './Components/routes/AdminRoute';
 import Logs from './Components/Admin/Logs';
+import Delete from './Components/Delete';
 import { isLoggedIn } from './Components/utils/localStorage';
 
 function App() {
@@ -42,6 +43,11 @@ function App() {
         <Route path='/View' element={
           <ProtectedRoute>
             <View />
+          </ProtectedRoute>
+        } />
+        <Route path='/Delete' element={
+          <ProtectedRoute>
+            <Delete />
           </ProtectedRoute>
         } />
         <Route path='/Login' element={

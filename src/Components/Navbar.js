@@ -36,6 +36,7 @@ export default function Navbar() {
             <>
               <li className='link'><Link to="/Upload">Upload</Link></li>
               <li className='link'><Link to="/View">View</Link></li>
+              <li className='link'><Link to="/Delete">Delete</Link></li>
               <li className='link'><Link to="/" onClick={logout}>Logout</Link></li>
             </>
           )

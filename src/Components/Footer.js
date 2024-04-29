@@ -13,7 +13,7 @@ export default function Footer() {
                             <ul>
                                 <li>Kshitij Sonawane</li>
                                 <li>Shubham More</li>
-                                <li>Pramod Virkar</li>
+                                <li>Milind Sunkari</li>
                                 <li>Sanket Singh</li>
                             </ul>
                         </div>
@@ -21,7 +21,7 @@ export default function Footer() {
                             <h4>Socials</h4>
                             <ul>
                                 <li>
-                                    <Link to="https://www.linkedin.com/in/kshitij-sonawane-469788215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtxiqVL%2F7SvS6QWaNxdR%2FMA%3D%3D" target="_blank" className="ico"><i className='fab fa-linkedin-in'></i></Link>
+                                    <Link to="https://www.linkedin.com/in/kshitij-sonawane?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9uWKziceRb%2BV1SZ5rnKj5Q%3D%3D" target="_blank" className="ico"><i className='fab fa-linkedin-in'></i></Link>
                                     <Link to="/" className="ico"><i className="fab fa-instagram"></i></Link>
                                 </li>
                                 <li>
@@ -29,7 +29,7 @@ export default function Footer() {
                                     <Link to="/" className="ico"><i className="fab fa-instagram"></i></Link>
                                 </li>
                                 <li>
-                                    <Link to="https://www.linkedin.com/in/pramod-virkar-129056216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bl7UZP2myT0Kh%2BLOdYR%2BddA%3D%3D" target="_blank" className="ico"><i className='fab fa-linkedin-in'></i></Link>
+                                    <Link to="https://www.linkedin.com/in/milind-narsingrao-sunkari-3b7b0521b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWnKYAEP5SOuKvARZrf1ogg%3D%3D" target="_blank" className="ico"><i className='fab fa-linkedin-in'></i></Link>
                                     <Link to="/" className="ico"><i className="fab fa-instagram"></i></Link>
                                 </li>
                                 <li>
